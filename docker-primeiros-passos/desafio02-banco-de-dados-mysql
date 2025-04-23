@@ -1,5 +1,5 @@
-docker run --name mysql_dev \
-  -e MYSQL_DATABASE=curso_docker \
+docker run --name mysql_devops_pro \
+  -e MYSQL_DATABASE=docker_db \
   -e MYSQL_USER=docker_usr \
   -e MYSQL_PASSWORD=docker_pwd \
   -e MYSQL_ROOT_PASSWORD=root \

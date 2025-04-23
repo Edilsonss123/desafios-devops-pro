@@ -1,4 +1,4 @@
-docker run --name mongo_dev \
+docker run --name mongo_devops_pro \
   -e MONGO_INITDB_ROOT_USERNAME=mongo_usr \
   -e MONGO_INITDB_ROOT_PASSWORD=mongo_pwd \
   -p 27017:27017 \
